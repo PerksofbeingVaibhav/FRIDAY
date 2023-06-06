@@ -25,7 +25,7 @@ We would want to expand the database of information out there and also create mo
 
 ## Details
 Made at Amplitude's AI x Product Hackathon
-This project was made at the Amplitude 2023 AI Hackathon in San Francisco. The event and development was sponsored by New Relic, LanceDB, Fennel & Continual.
+This project was made at the Amplitude 2023 AI Hackathon in San Francisco online. The event and development was sponsored by New Relic, LanceDB, Fennel & Continual.
 
 ## To run
 

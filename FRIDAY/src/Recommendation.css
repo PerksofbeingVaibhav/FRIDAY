@@ -1,0 +1,12 @@
+.Recommendation {
+    text-align: center;
+    margin-left: 40vh;
+    margin-right: 40vh;
+    margin-top: 10vh;
+    color: white;
+    background-color: #131516;
+}
+
+element.style {
+    color-scheme: dark;
+}
